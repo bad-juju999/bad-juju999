@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Julian! </h1>
 
-<!--
-**bad-juju999/bad-juju999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Automation & Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- [Automating Job Tasks](https://github.com/)
+- [QA Test Suite](https://github.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me on <a href="https://www.linkedin.com/in/julianlively/" target="_blank" >LinkedIn</a> </h2>
+
+
+<h3>What I am currently learning and using?</h3>
+- Playwright TS + Cucumber Gherkin 🥒
+
+<h3>What tools have I used in the past?</h3>
+- Python (Selenium & PyExcel libraries)
+<br>
+- JavaScript (Playwright & React libraries)
