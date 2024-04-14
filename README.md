@@ -12,6 +12,10 @@
 - Playwright TS + Cucumber Gherkin 🥒
 
 <h3>What tools have I used in the past?</h3>
-- Python (Selenium & PyExcel libraries)
+- Python (Selenium, PyExcel & Custom TKinter)
 <br>
-- JavaScript (Playwright & React libraries)
+<br>
+- JavaScript (Playwright & React)
+<br>
+<br>
+- HTML + CSS (Bootstrap & Tailwind)
