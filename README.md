@@ -14,8 +14,6 @@
 <h3>What tools have I used in the past?</h3>
 - Python (Selenium, PyExcel & Custom TKinter)
 <br>
-<br>
 - JavaScript (Playwright & React)
-<br>
 <br>
 - HTML + CSS (Bootstrap & Tailwind)
