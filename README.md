@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Automation & Software Development Projects:</h2>
 
-- [Automating Job Tasks](https://github.com/)
+- [Automating Job Tasks](https://github.com/bad-juju999/Automating-Job-Tasks/tree/main)
 - [QA Test Suite](https://github.com/)
 
 <h2> 🤳 Connect with me on <a href="https://www.linkedin.com/in/julianlively/" target="_blank" >LinkedIn</a> </h2>
